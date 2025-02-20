@@ -1,0 +1,6 @@
+include README.md
+
+recursive-include TockyConvNetPy *.py
+recursive-include TockyConvNetPy/data *
+recursive-include TockyConvNetPy/assets *
+recursive-include TockyConvNetPy/notebooks *
