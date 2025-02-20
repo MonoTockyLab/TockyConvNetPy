@@ -31,12 +31,14 @@ pip install git+https://github.com/MonoTockyLab/TockyConvNetPy.git
 ## Requirements
 TockyMLPy requires the following packages:
 
-- TensorFlow >= 2.13.0
-- Pandas >= 2.1.1
-- scikit-learn >= 1.3.1
-- Matplotlib >= 3.8
-- SciPy >= 1.11.3
-- scikit-image >= 0.22.0
+- tensorflow=2.10.0
+- keras=2.10.0
+- numpy>=1.21.0,<1.22.0
+- scikit-learn>=1.1.2,<1.2.0
+- matplotlib>=3.5.3,<3.6.0
+- scipy>=1.10.1,<1.11.0
+- scikit-image>=0.19.2,<0.20.0
+- pandas>=1.5.3,<1.6.0
 
 ## Example Notebook
 
