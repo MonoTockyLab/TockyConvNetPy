@@ -62,12 +62,6 @@ Once JupyterLab is installed, follow these steps to open the example notebook:
    Use the `cd` command to change directories to the `examples/` folder inside the TockyMLPy repository. If you have extracted the repository to, for example, `C:\Users\YourName\Downloads\TockyMLPy`, enter:
 
    ```bash
-   cd C:\Users\YourName\Downloads\TockyMLPy\examples
-   ```
-
-   Or if on a Unix-based system like macOS or Linux, it might look like:
-
-   ```bash
    cd ~/Downloads/TockyMLPy/examples
    ```
 
@@ -81,6 +75,10 @@ This command will start the JupyterLab server and usually opens JupyterLab in yo
 
 5. **Open the Notebook**:
    Once JupyterLab opens in your browser, navigate through the file browser within JupyterLab to locate and open the `TockyMLPy_GradCAM_visualization.ipynb` notebook.
+   
+6. Example Notebooks as webpage
+
+[CNN3LayersModel](https://MonoTockyLab.github/TockyConvNetPy/docs/CNN3LayersModel.html)
 
 ## Reference
 
