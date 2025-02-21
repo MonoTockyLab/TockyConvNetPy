@@ -4,7 +4,7 @@
 **Author:** Dr. Masahiro Ono  
 **Date:** 12 February 2025
 
-<img src="TockyConvNetPy/assets/LogoTockyConvNetPy.jpg" align="center"   width=30%>
+<img src="assets/LogoTockyConvNetPy.jpg" align="center"   width=30%>
 
 
 
@@ -17,7 +17,7 @@ Specifically, the package provides:
 
 
 The scehametic figure below provides an overview on the workflows within TockyMachineLearning.
-<img src="TockyConvNetPy/assets/Workflow.jpg" align="center" width=100%>
+<img src="assets/Workflow.jpg" align="center" width=100%>
 
 ## Installation
 To install TockyMLPy, simply run the following command in your terminal:
@@ -78,7 +78,7 @@ This command will start the JupyterLab server and usually opens JupyterLab in yo
    
 6. Example Notebooks as webpage
 
-[CNN3LayersModel](https://MonoTockyLab.github/TockyConvNetPy/blob/main/docs/CNN3LayersModel.html)
+[View CNN 3 Layers Model Notebook](https://monotockylab.github.io/TockyConvNetPy/CNN3LayersModel.html)
 
 ## Reference
 

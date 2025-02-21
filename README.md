@@ -78,7 +78,8 @@ This command will start the JupyterLab server and usually opens JupyterLab in yo
    
 6. Example Notebooks as webpage
 
-[CNN3LayersModel](https://MonoTockyLab.github/TockyConvNetPy/blob/main/docs/CNN3LayersModel.html)
+[View CNN 3 Layers Model Notebook](https://monotockylab.github.io/TockyConvNetPy/CNN3LayersModel.html)
+
 ## Reference
 
 
