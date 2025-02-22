@@ -238,8 +238,4 @@ with PdfPages(pdf_path) as pdf:
 print(f"Saved all Grad-CAM analysis to {pdf_path}")
 
 
-# In[ ]:
-
-
-
 

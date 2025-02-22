@@ -17,14 +17,14 @@ image_input = Input(shape=(100, 100, 1))
 # First Convolutional Layer
 x = Conv2D(16, (3,3), padding='same')(image_input)
 x = Activation('relu')(x)
-x = spatial_attention_block(x)  # Apply attention
+x = spatial_attention_block(x) 
 x = MaxPooling2D((2,2))(x)
 x = Dropout(0.2)(x)
 
 # Second Convolutional Layer
 x = Conv2D(16, (3,3), padding='same')(x)
 x = Activation('relu')(x)
-x = spatial_attention_block(x)  # Apply attention
+x = spatial_attention_block(x) 
 x = MaxPooling2D((2,2))(x)
 x = Dropout(0.2)(x)
 
@@ -81,14 +81,14 @@ image_input = Input(shape=(100, 100, 1))
 # First Convolutional Layer
 x = Conv2D(16, (3,3), padding='same')(image_input)
 x = Activation('relu')(x)
-x = spatial_attention_block(x)  # Apply attention
+x = spatial_attention_block(x) 
 x = MaxPooling2D((2,2))(x)
 x = Dropout(0.2)(x)
 
 # Second Convolutional Layer
 x = Conv2D(16, (3,3), padding='same')(x)
 x = Activation('relu')(x)
-x = spatial_attention_block(x)  # Apply attention
+x = spatial_attention_block(x) 
 x = MaxPooling2D((2,2))(x)
 x = Dropout(0.2)(x)
 
@@ -109,14 +109,14 @@ image_input = Input(shape=(100, 100, 1))
 # First Convolutional Layer
 x = Conv2D(16, (3,3), padding='same')(image_input)
 x = Activation('relu')(x)
-x = spatial_attention_block(x)  # Apply attention
+x = spatial_attention_block(x) 
 x = MaxPooling2D((2,2))(x)
 x = Dropout(0.2)(x)
 
 # Second Convolutional Layer
 x = Conv2D(16, (3,3), padding='same')(x)
 x = Activation('relu')(x)
-x = spatial_attention_block(x)  # Apply attention
+x = spatial_attention_block(x) 
 x = MaxPooling2D((2,2))(x)
 x = Dropout(0.2)(x)
 
